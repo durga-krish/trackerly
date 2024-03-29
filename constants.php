@@ -22,5 +22,6 @@ const EXPENSE_CATEGORIES = [
     'food' => 'Food',
     'transportations' => 'Transportations',
     'utilities' => 'Utilities',
+    'donations' => 'Donations',
     'miscellaneous' => 'Miscellaneous',
 ];
