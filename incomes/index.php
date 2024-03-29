@@ -2,7 +2,7 @@
 
 include __DIR__ . '/../db_connection.php';
 
-$result = $conn->query('SELECT id, date, category, amount FROM INCOMES');
+$result = $conn->query('SELECT id, date, category, amount FROM incomes');
 
 ?>
 
