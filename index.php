@@ -22,6 +22,7 @@ include __DIR__ . '/constants.php';
                 <div class="list-group">
                     <a href="incomes" class="list-group-item list-group-item-action list-group-item-primary">Incomes</a>
                     <a href="expenses" class="list-group-item list-group-item-action list-group-item-success">Expenses</a>
+                    <a href="categories" class="list-group-item list-group-item-action list-group-item-warning">Categories</a>
                 </div>
 
             </div>
